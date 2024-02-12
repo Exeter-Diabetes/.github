@@ -5,3 +5,6 @@ This Github organisation contains a number of repositories from members of the E
 * **CPRD-Cohort-scripts**: Details of the pipeline we use to flexibly define different diabetes cohorts (and pull in relevant patient features) from CPRD Aurum.
 * **CPRD-analysis-package**: The R package (`aurum`) which we use to create our CPRD MySQL database from the raw data provided by CPRD, and query it from R. It also includes functions for adding codelists to MySQL and using these in queries. This package is used extensively in the scripts in the CPRD-Cohort-scripts repository.
 * **EHRBiomarkr**: An R package to clean biomarker measurements in CPRD Aurum, and calculate CVD and kidney risk scores.
+
+For a comprehensive guide to accessing CPRD, see [https://exeter-diabetes.github.io/CPRD-Tutorial/](https://exeter-diabetes.github.io/CPRD-Tutorial/). A PDF version can be found [here](https://github.com/Exeter-Diabetes/CPRD-Tutorial/blob/main/docs/_main.pdf).
+
